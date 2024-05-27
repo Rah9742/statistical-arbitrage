@@ -1,0 +1,7 @@
+requests
+pandas
+numpy
+matplotlib
+statsmodels
+datetime
+pandas_market_calendars
