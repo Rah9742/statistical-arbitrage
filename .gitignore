@@ -1,0 +1,9 @@
+venv/
+.venv/
+.vs/
+tempCodeRunnerFile.py
+.env
+.env.leave
+/.vscode/
+/.vscode/settings.json/
+notes.md
